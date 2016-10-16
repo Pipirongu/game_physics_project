@@ -5,3 +5,5 @@ Multiple contact points are used for collision response.
 My own math library is used for educational purpose.
 
 Video: https://youtu.be/t_FaEnCxfZw
+
+Check 'Release' tab for binaries.
